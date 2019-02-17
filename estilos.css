@@ -1,0 +1,43 @@
+body{
+margin: 10px;
+}
+.glyphicon {
+    font-size: 30px;
+    top:10px;
+}
+.jumbotron {
+    text-align: center;
+    top:10px;
+
+   background-image: url(images/puesta.jpg);
+   color: white;
+}
+.thumbnail{
+background-color: #DBDCDB;
+-webkit-border-radius:9px;
+border: 5px solid #DBDCDB;
+}
+
+img{
+  border-radius: 10px 10px 0px 0px;
+
+}
+
+
+
+
+.Contenido2{
+  clear:left;
+  background-color:  #FAFAFA;
+  width: 100%;
+  height: 250px;
+  position: relative;
+  TOP:300PX;
+
+  border-style:solid;
+  border-color: grey;
+border-top : 1px groove  #F0F0F0 ;
+border-left : 0pt ;
+border-bottom: 1px groove #F0F0F0 ;
+border-right: 0px ;
+}
